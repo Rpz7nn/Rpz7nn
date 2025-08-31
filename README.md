@@ -27,13 +27,6 @@
 
 
 
-## 🐍 Contribuições  
-![snake gif](https://raw.githubusercontent.com/Rpz7nn/Rpz7nn/output/github-contribution-grid-snake.svg)
+## 😍 Próximo Projeto para a Comunidade da Taco 🌮
 
-
-
-public class BaseFivemjajatapronta {
-    public static void main(String[] args) {
-        System.out.println("vai ser tema próprio einn, chama!");
-    }
-}
+Base Tema Próprio FiveM (Open Source): base completa com diversos scripts prontos para personalização.
