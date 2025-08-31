@@ -18,14 +18,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-## 📌 Projetos em Destaque  
-- 🔹 **[Bot de Discord](#)** → Sistema completo de moderação e economia.  
-- 🔹 **[Scripts FiveM](#)** → Scripts otimizados em Lua para servidores RP.  
-- 🔹 **[WebStore](#)** → Loja digital com Node.js + MySQL.  
-
----
 
 ## 🌎 Onde me encontrar  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/nZjyqgjU)  
@@ -33,10 +25,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/em-criacao)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:nexuspixshop@gmail.com)  
 
----
+
 
 ## 🐍 Contribuições  
-![Snake animation](https://github.com/Rpz7nn/Rpz7nn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Rpz7nn/Rpz7nn/output/github-contribution-grid-snake.svg)
 
----
-✨ *"Código é a ponte entre ideias e realidade."*
+
+public class BaseFivemjajatapronta {
+    public static void main(String[] args) {
+        System.out.println("vai ser tema próprio einn, chama!");
+    }
+}
