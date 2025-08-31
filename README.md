@@ -27,6 +27,6 @@
 
 
 
-## 😍 Próximo Projeto para a Comunidade da Taco 🌮
+## 😍 Próximo Projeto
 
 Base Tema Próprio FiveM (Open Source): base completa com diversos scripts prontos para personalização.
