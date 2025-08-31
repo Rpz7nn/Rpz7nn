@@ -28,7 +28,8 @@
 
 
 ## 🐍 Contribuições  
-![Snake animation](https://raw.githubusercontent.com/Rpz7nn/Rpz7nn/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Rpz7nn/Rpz7nn/output/github-contribution-grid-snake.svg)
+
 
 
 public class BaseFivemjajatapronta {
