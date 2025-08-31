@@ -1,34 +1,42 @@
 # 👋 Olá, eu sou o Arthur Guilherme  
 
-💻 Sou desenvolvedor apaixonado por tecnologia, com experiência em **Front-end, Back-end e automações**.  
-🚀 Crio projetos para **Discord, FiveM e Web**, unindo **performance, design e praticidade**.  
-📚 Sempre explorando novas linguagens e ferramentas para evoluir minhas habilidades.  
+💻 Desenvolvedor **Full Stack** apaixonado por tecnologia e inovação.  
+🚀 Experiência na criação de soluções para **Discord, FiveM e aplicações Web**, sempre priorizando **performance, design e escalabilidade**.  
+⚡ Gosto de transformar ideias em código e de explorar novas linguagens, frameworks e arquiteturas.  
 
 ---
 
-## 🚀 Tecnologias & Linguagens
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+## 🚀 Tecnologias & Linguagens  
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rpz7nn&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rpz7nn&layout=compact&theme=tokyonight)
+## 📌 Projetos em Destaque  
+- 🔹 **[Bot de Discord](#)** → Sistema completo de moderação e economia.  
+- 🔹 **[Scripts FiveM](#)** → Scripts otimizados em Lua para servidores RP.  
+- 🔹 **[WebStore](#)** → Loja digital com Node.js + MySQL.  
 
 ---
 
-## 🌎 Onde me encontrar
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/nZjyqgjU)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/arthurguilheermee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/em-criacao)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:nexuspixshop@gmail.com)
+## 🌎 Onde me encontrar  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/nZjyqgjU)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/arthurguilheermee)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/em-criacao)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:nexuspixshop@gmail.com)  
 
 ---
 
+## 🐍 Contribuições  
+![Snake animation](https://github.com/Rpz7nn/Rpz7nn/blob/output/github-contribution-grid-snake.svg)
+
+---
+✨ *"Código é a ponte entre ideias e realidade."*
