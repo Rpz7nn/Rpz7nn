@@ -1,10 +1,8 @@
 # Arthur Guilherme Veríssimo
 
-**Full Stack Developer** | Especializado em Discord, FiveM e aplicações Web
+**Full Stack Developer** | Especializado em Discord e aplicações Web
 
 Desenvolvedor com foco em criar soluções escaláveis e performáticas, transformando ideias em código de alta qualidade. Experiência em desenvolvimento de sistemas completos, desde a arquitetura backend até interfaces frontend modernas e responsivas.
-
-
 
 ### Linguagens
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -29,12 +27,13 @@ Desenvolvedor com foco em criar soluções escaláveis e performáticas, transfo
 **Discord Development**  
 Desenvolvimento de bots customizados, sistemas de vendas automatizada e integrações avançadas com APIs externas.
 
-**FiveM Development**  
-Criação de scripts, sistemas complexos e frameworks completos para servidores roleplay, com ênfase em otimização e experiência do usuário.
+**Backend Development**  
+Criação de APIs RESTful, microserviços e sistemas backend robustos, com foco em escalabilidade, segurança e boas práticas de arquitetura.
 
 **Web Development**  
 Aplicações web full stack utilizando tecnologias modernas, com foco em performance, SEO e design responsivo.
 
+---
 
 ## Contato
 
