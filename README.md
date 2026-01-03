@@ -1,4 +1,4 @@
-# Arthur Guilherme Veríssimo
+# Arthur Guilherme Veríssimo Bezerra
 
 **Full Stack Developer** | Especialista em **Node.js**, **Discord** e **Aplicações Web Escaláveis**
 
