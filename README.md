@@ -1,14 +1,4 @@
-# Arthur Guilherme Veríssimo Bezerra
 
-**Full Stack Developer** | Especialista em **Node.js**, **Discord** e **Aplicações Web Escaláveis**
-
-Desenvolvedor full stack com forte foco em **Node.js** e ecossistema JavaScript, atuando na criação de soluções modernas, seguras e altamente performáticas. Transformo ideias em produtos reais, com atenção à arquitetura, qualidade de código, escalabilidade e experiência do usuário.
-
----
-
-##  Stack Principal
-
-### Linguagens
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
@@ -42,42 +32,3 @@ Desenvolvedor full stack com forte foco em **Node.js** e ecossistema JavaScript,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=000)
 
----
-
-## Áreas de Atuação
-
-### Discord Development
-
-* Bots customizados e escaláveis
-* Sistemas de vendas automáticas
-* Integração com gateways de pagamento (PIX, APIs externas)
-* Dashboards administrativos
-
-### Backend Development
-
-* APIs RESTful e GraphQL
-* Microserviços com Node.js
-* Autenticação, autorização e segurança
-* Arquitetura limpa e escalável
-
-### Web Development
-
-* Aplicações web full stack
-* Dashboards e painéis administrativos
-* SEO, performance e responsividade
-* Integração frontend ↔ backend
-
----
-
-## Contato
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=fff\&style=for-the-badge)](https://discord.gg/nZjyqgjU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=fff\&style=for-the-badge)](https://linkedin.com/in/em-criacao)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=fff\&style=for-the-badge)](https://instagram.com/arthurguilheermee)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=fff\&style=for-the-badge)](mailto:nexuspixshop@gmail.com)
-
----
-
-<p align="center">
-  <i>Aberto para colaborações, freelas e projetos 🚀</i>
-</p>
