@@ -1,8 +1,8 @@
 # Arthur Guilherme
 
-**Full Stack Developer · Software Engineering · Digital Experiences**
+**Full Stack Developer · Software Engineering · Artificial Intelligence**
 
-Building scalable applications, powerful APIs, and seamless digital experiences. Focused on clean architecture, performance, and turning complex ideas into reliable software.
+Building scalable software, intelligent systems, and digital infrastructure. Focused on software architecture, performance, security, and engineering solutions that turn complex challenges into technology.
 
 ---
 
@@ -32,10 +32,24 @@ Building scalable applications, powerful APIs, and seamless digital experiences.
 
 ---
 
-### What I Build
+### Selected Projects
 
-`Web Applications` · `REST APIs` · `Backend Systems` · `Full Stack Solutions`
+**01 / Breast Cancer Detection AI**
+
+Developed an artificial intelligence system for an academic research project focused on breast cancer detection through digital mammography.
+
+Engineered using **Python, EfficientNet, and Deep Learning**, integrating medical image processing, convolutional neural networks, and automated classification to investigate AI-assisted early detection.
+
+The project combines software engineering and computer vision to explore the potential of intelligent systems in medical imaging.
+
+**02 / DreaM Applications**
+
+Currently engineering **DreaM Applications**, an integrated ecosystem of digital solutions focused on commerce infrastructure, sales automation, and scalable business operations.
+
+**Dream Commerce** is a core solution within the ecosystem, providing infrastructure for digital storefront creation, automated sales workflows, product catalog and order management, and electronic transaction processing.
+
+Designed with an emphasis on high availability, end-to-end security, and continuous scalability.
 
 ---
 
-<sub>Engineering ideas into digital reality.</sub>
+<sub>Engineering intelligent systems. Building scalable digital infrastructure.</sub>
