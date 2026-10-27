@@ -1,77 +1,99 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=ARTHUR%20GUILHERME&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%2F%20ARTIFICIAL%20INTELLIGENCE&descSize=11&descColor=888888&descAlignY=67" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=200&section=header&text=ARTHUR%20GUILHERME&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%2F%20ARTIFICIAL%20INTELLIGENCE&descSize=12&descColor=999999&descAlignY=64" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Building technology. Engineering possibilities.</strong>
-  <br/>
-  <sub>Full Stack Development · Software Architecture · Artificial Intelligence</sub>
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-111111?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-111111?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,lua,react,nextjs,nodejs,nestjs,postgres,mongodb,docker,git,linux&theme=dark" />
+## Profile
+
+Software developer focused on full-stack applications, backend systems, software architecture, and artificial intelligence. Interested in building maintainable software, designing reliable infrastructure, and developing solutions with attention to performance, security, and code quality.
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,lua&theme=dark" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nextjs&theme=dark" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
+</p>
+
+### Databases and Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,git,github&theme=dark" />
 </p>
 
 ---
 
-## Sobre mim
-
-Sou Arthur Guilherme, desenvolvedor com foco na construção de software, arquitetura de sistemas e inteligência artificial.
-
-Busco transformar ideias complexas em soluções tecnológicas bem estruturadas, combinando desenvolvimento full stack, pensamento analítico e interesse por sistemas inteligentes. Meu objetivo é construir projetos que vão além do código: produtos sólidos, escaláveis e preparados para evoluir.
-
-**Áreas de interesse**
-- Engenharia de software e arquitetura de sistemas.
-- Desenvolvimento full stack e APIs.
-- Inteligência artificial e deep learning.
-- Infraestrutura, segurança e otimização de performance.
-
----
-
-## Featured Project
+## Selected Project
 
 ### Mamograph AI
-**Artificial Intelligence · Medical Imaging · Deep Learning**
 
-Projeto acadêmico de pesquisa que explora o uso de inteligência artificial na análise de mamografias digitais, utilizando **Python, EfficientNet e redes neurais convolucionais** para investigar a classificação automatizada de imagens médicas.
+**Artificial Intelligence / Medical Imaging**
 
-`PYTHON` `EFFICIENTNET` `COMPUTER VISION`
+Academic research project focused on breast cancer detection through digital mammography, exploring image classification using Python, EfficientNet, and deep learning techniques.
+
+**Technologies:** Python · EfficientNet · Convolutional Neural Networks · Computer Vision
 
 ---
 
-## Engineering Mindset
+## Engineering Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>01 / Architecture</strong>
-      <p>Projetar sistemas modulares, organizados e preparados para crescer.</p>
+      <strong>Software Architecture</strong>
+      <p>Modular design, maintainability, separation of concerns, and scalable application structure.</p>
     </td>
     <td width="50%" valign="top">
-      <strong>02 / Intelligence</strong>
-      <p>Explorar novas possibilidades por meio de algoritmos e aprendizado de máquina.</p>
+      <strong>Backend Engineering</strong>
+      <p>API development, database integration, business logic, and server-side applications.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>03 / Performance</strong>
-      <p>Buscar eficiência, confiabilidade e decisões técnicas bem fundamentadas.</p>
+      <strong>Artificial Intelligence</strong>
+      <p>Deep learning, computer vision, and machine learning applications.</p>
     </td>
     <td width="50%" valign="top">
-      <strong>04 / Innovation</strong>
-      <p>Transformar conceitos em soluções concretas por meio da engenharia.</p>
+      <strong>Infrastructure and Security</strong>
+      <p>Application deployment, system reliability, secure development, and performance optimization.</p>
     </td>
   </tr>
 </table>
 
 ---
 
+## Development Principles
+
+- Clean, maintainable, and well-structured code.
+- Separation of concerns and modular architecture.
+- Secure handling of application data and credentials.
+- Reliable APIs and database design.
+- Performance optimization based on measurable requirements.
+- Testing, debugging, and continuous improvement.
+
+---
+
 <p align="center">
-  <strong>Não apenas escrever código. Construir o que vem a seguir.</strong>
-  <br/><br/>
-  <sub>SOFTWARE · INTELLIGENCE · ENGINEERING</sub>
+  <sub>Arthur Guilherme · Software Development · Artificial Intelligence</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=3&section=footer" width="100%" />
 </p>
