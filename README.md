@@ -1,179 +1,77 @@
  <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=ARTHUR%20GUILHERME&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%2F%20ARTIFICIAL%20INTELLIGENCE&descSize=12&descAlignY=68&descColor=999999" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=ARTHUR%20GUILHERME&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%2F%20ARTIFICIAL%20INTELLIGENCE&descSize=11&descColor=888888&descAlignY=67" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DarkyHArry">
-    <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/FULL_STACK-0D0D0D?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_RESEARCH-0D0D0D?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
-
-<h2 align="center">Building systems. Exploring intelligence.</h2>
-
-<p align="center">
-  I build software at the intersection of engineering, intelligent systems, and digital infrastructure.
+  <strong>Building technology. Engineering possibilities.</strong>
   <br/>
-  My focus is on designing reliable architectures, developing practical applications, and exploring how artificial intelligence can solve complex problems.
+  <sub>Full Stack Development · Software Architecture · Artificial Intelligence</sub>
 </p>
 
 <p align="center">
-  <code>ENGINEERING</code> &nbsp; <code>ARCHITECTURE</code> &nbsp; <code>INTELLIGENCE</code> &nbsp; <code>INNOVATION</code>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,lua,react,nextjs,nodejs,nestjs,postgres,mongodb,docker,git,linux&theme=dark" />
 </p>
 
 ---
 
-## 01 / About Me
+## Sobre mim
 
-I'm Arthur Guilherme, a developer interested in the engineering behind modern software — from user-facing applications and backend systems to artificial intelligence and computer vision.
+Sou Arthur Guilherme, desenvolvedor com foco na construção de software, arquitetura de sistemas e inteligência artificial.
 
-My approach combines practical software development with an interest in system design, performance, security, and maintainability.
+Busco transformar ideias complexas em soluções tecnológicas bem estruturadas, combinando desenvolvimento full stack, pensamento analítico e interesse por sistemas inteligentes. Meu objetivo é construir projetos que vão além do código: produtos sólidos, escaláveis e preparados para evoluir.
 
-- **Software Engineering** — modular architecture, backend development, APIs, and scalable applications.
-- **Artificial Intelligence** — deep learning, computer vision, and intelligent systems.
-- **Full Stack Development** — building complete applications across frontend, backend, and data layers.
-- **Systems Thinking** — understanding how components interact, fail, scale, and evolve.
-
----
-
-## 02 / Featured Research
-
-<h3 align="center">Breast Cancer Detection AI</h3>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=3&section=header" />
-</p>
-
-**AI-assisted analysis of digital mammography using deep learning.**
-
-An academic research project exploring the application of artificial intelligence to breast cancer detection through digital mammographic images.
-
-The project investigates how deep learning architectures and computer vision techniques can learn visual patterns from medical images and support automated image classification research.
-
-### Research Overview
-
-**01 — Medical Image Processing**
-
-Digital mammography provides image data containing complex anatomical structures. Preparing these images for machine learning involves consistent preprocessing, appropriate data handling, and attention to image quality and representation.
-
-**02 — Deep Learning Architecture**
-
-The project uses **Python and EfficientNet**, a convolutional neural network architecture designed to balance representational capacity and computational efficiency.
-
-The architecture serves as the foundation for investigating image features and their usefulness in a medical image classification pipeline.
-
-**03 — Feature Learning and Classification**
-
-Convolutional neural networks learn hierarchical image representations, from lower-level visual patterns to more complex structures. These representations can be used to distinguish image classes when trained and evaluated with appropriately prepared data.
-
-**04 — AI-Assisted Medical Imaging**
-
-The broader research goal is to investigate how machine learning may contribute to medical image analysis. Such systems require rigorous validation, representative datasets, careful evaluation, and expert clinical oversight before any clinical application.
-
-### Technical Focus
-
-| Component | Technology / Method |
-|:--|:--|
-| Primary language | Python |
-| Model architecture | EfficientNet |
-| Core methodology | Deep Learning |
-| AI domain | Computer Vision |
-| Input modality | Digital mammography |
-| Research objective | Medical image classification |
-
-### Engineering Considerations
-
-- Image preprocessing and input consistency.
-- Dataset organization and class-label integrity.
-- Model training and validation workflows.
-- Generalization to previously unseen images.
-- Evaluation using appropriate classification metrics.
-- Awareness of overfitting, data leakage, and dataset imbalance.
-- Responsible interpretation of AI predictions in medical contexts.
-
-### Important Research Note
-
-This project is an academic exploration of AI-assisted medical imaging. Its description does not imply clinical validation, diagnostic approval, or a demonstrated improvement in patient outcomes.
-
-<p align="center">
-  <sub>PYTHON &nbsp; / &nbsp; EFFICIENTNET &nbsp; / &nbsp; DEEP LEARNING &nbsp; / &nbsp; COMPUTER VISION</sub>
-</p>
+**Áreas de interesse**
+- Engenharia de software e arquitetura de sistemas.
+- Desenvolvimento full stack e APIs.
+- Inteligência artificial e deep learning.
+- Infraestrutura, segurança e otimização de performance.
 
 ---
 
-## 03 / Technology Stack
+## Featured Project
 
-### Languages
+### Mamograph AI
+**Artificial Intelligence · Medical Imaging · Deep Learning**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,lua&theme=dark" />
-</p>
+Projeto acadêmico de pesquisa que explora o uso de inteligência artificial na análise de mamografias digitais, utilizando **Python, EfficientNet e redes neurais convolucionais** para investigar a classificação automatizada de imagens médicas.
 
-### Frontend Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nextjs&theme=dark" />
-</p>
-
-### Backend Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,git,github&theme=dark" />
-</p>
-
-### Specialized Interests
-
-<p>
-  <img src="https://img.shields.io/badge/COMPUTER_VISION-111111?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEEP_LEARNING-111111?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIS-111111?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOFTWARE_ARCHITECTURE-111111?style=flat-square&logo=blueprint&logoColor=white" />
-</p>
+`PYTHON` `EFFICIENTNET` `COMPUTER VISION`
 
 ---
 
-## 04 / Engineering Principles
+## Engineering Mindset
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ Architecture</h3>
-      <p>Modular systems, separation of concerns, and maintainable codebases.</p>
+      <strong>01 / Architecture</strong>
+      <p>Projetar sistemas modulares, organizados e preparados para crescer.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>ϟ Performance</h3>
-      <p>Efficient execution, resource awareness, and thoughtful optimization.</p>
+      <strong>02 / Intelligence</strong>
+      <p>Explorar novas possibilidades por meio de algoritmos e aprendizado de máquina.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⬡ Security</h3>
-      <p>Secure development practices, validation, and defense in depth.</p>
+      <strong>03 / Performance</strong>
+      <p>Buscar eficiência, confiabilidade e decisões técnicas bem fundamentadas.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⌘ Research</h3>
-      <p>Experimentation, reproducibility, evaluation, and evidence-driven iteration.</p>
+      <strong>04 / Innovation</strong>
+      <p>Transformar conceitos em soluções concretas por meio da engenharia.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 05 / Development Philosophy
-
-> Good software is not defined only by what it does, but by how reliably, securely, and clearly it does it.
-
-I value engineering decisions that solve the actual problem rather than adding complexity for its own sake. The goal is to build systems that can be understood, tested, maintained, and improved over time.
-
----
+<p align="center">
+  <strong>Não apenas escrever código. Construir o que vem a seguir.</strong>
+  <br/><br/>
+  <sub>SOFTWARE · INTELLIGENCE · ENGINEERING</sub>
+</p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=100&section=footer&text=ENGINEERING%20INTELLIGENT%20SYSTEMS&fontSize=17&fontColor=FFFFFF&fontAlignY=42&desc=BUILDING%20WHAT%20COMES%20NEXT.&descSize=11&descAlignY=68&descColor=999999" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=footer" width="100%" />
 </p>
