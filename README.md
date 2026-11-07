@@ -17,7 +17,7 @@ Software developer focused on full-stack applications, backend systems, software
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,lua&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,lua,rust,go&theme=dark" />
 </p>
 
 ### Frontend Development
@@ -37,8 +37,6 @@ Software developer focused on full-stack applications, backend systems, software
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,git,github&theme=dark" />
 </p>
-
----
 
 ## Selected Project
 
